@@ -1,0 +1,46 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\HK212 LSI\Lab_LSI\simulation\modelsim
+vFlash_bounder
+ICBkFAW37Y7kaS:]P@<D@F0
+V?71C?iTg0N_FW@KokLK@k1
+Z1 dD:\HK212 LSI\Lab_LSI\simulation\modelsim
+w1650936124
+8D:/HK212 LSI/Lab_LSI/Flash_bounder.v
+FD:/HK212 LSI/Lab_LSI/Flash_bounder.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+n@flash_bounder
+!i10b 1
+!s100 88RY30WUQ<QZzSO[8J4S:1
+!s85 0
+!s108 1650937024.997000
+!s107 D:/HK212 LSI/Lab_LSI/Flash_bounder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/HK212 LSI/Lab_LSI|D:/HK212 LSI/Lab_LSI/Flash_bounder.v|
+!s101 -O0
+Z4 !s92 -vlog01compat -work work {+incdir+D:/HK212 LSI/Lab_LSI} -O0
+vtestbench
+!i10b 1
+!s100 @jO4[L3T81VVXZ:D?oB7n3
+ICle[JlQHH=SD8;i`1IKG]2
+VhGfW:390DM[oDMzegDH9`2
+R1
+w1650936997
+8D:/HK212 LSI/Lab_LSI/testbench.v
+FD:/HK212 LSI/Lab_LSI/testbench.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1650937025.030000
+!s107 D:/HK212 LSI/Lab_LSI/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/HK212 LSI/Lab_LSI|D:/HK212 LSI/Lab_LSI/testbench.v|
+!s101 -O0
+R3
+R4
